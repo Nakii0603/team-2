@@ -27,3 +27,4 @@ async function initServer() {
   });
 }
 initServer();
+console.log("asd");
